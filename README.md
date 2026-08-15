@@ -20,9 +20,9 @@
 
 I'm a student and developer focused on **AI applications, LLMs, full-stack development, and problem solving**.
 
-I enjoy going beyond tutorials — understanding how technology works, experimenting with it, and turning what I learn into projects people can actually use.
+I like going beyond tutorials: **understand the technology, experiment with it, and turn what I learn into useful software.**
 
-Right now, I'm especially focused on **AI products and LLMs**, while strengthening my foundations through **Java, DSA, web development, and software engineering**.
+Right now, my main focus is **AI products and LLMs**, while strengthening my foundations through **Java, DSA, web development, and software engineering**.
 
 > **Learn the fundamentals. Build the product. Understand what's under the hood. Keep improving.**
 
@@ -30,28 +30,34 @@ Right now, I'm especially focused on **AI products and LLMs**, while strengtheni
 
 ## 🧠 AI / LLM Lab
 
+I'm exploring AI from two sides: **understanding how the technology works** and **using it to build useful applications**.
+
 <table>
 <tr>
 <td width="50%">
 
 ### 🔬 LLM from Scratch
 
-Learning the fundamentals behind language models instead of treating them as a black box.
+A hands-on learning project for understanding the building blocks behind language models instead of treating them as a black box.
 
 **Exploring**
 
 `Tokenization` · `Architecture` · `Training` · `Language Modeling`
+
+🔒 **Private • In development**
 
 </td>
 <td width="50%">
 
 ### 🤖 AI Resume Analyzer
 
-Building a practical AI product that turns a resume PDF into structured insights and useful career recommendations.
+A practical AI product that turns a resume PDF into structured information, ATS-oriented analysis, and career-focused insights.
 
 **Working with**
 
 `PDF Parsing` · `ATS Analysis` · `AI Insights` · `Structured Extraction`
+
+🔨 **Actively building**
 
 </td>
 </tr>
@@ -61,7 +67,7 @@ Building a practical AI product that turns a resume PDF into structured insights
 
 **Understand → Experiment → Build → Improve**
 
-I'm interested in both sides of AI: **understanding the technology** and **shipping useful applications with it**.
+I want to understand what's happening under the hood while learning how to turn AI capabilities into products that solve real problems.
 
 ---
 
@@ -73,7 +79,7 @@ I'm interested in both sides of AI: **understanding the technology** and **shipp
 
 ### 🤖 AI Resume Analyzer
 
-An AI-powered resume analysis platform focused on parsing resumes, evaluating ATS-related information, extracting skills and projects, and generating career-oriented insights.
+An AI-powered resume platform focused on resume parsing, ATS-related analysis, skill and project extraction, and career-oriented recommendations.
 
 **Status:** 🔨 Building
 
@@ -137,6 +143,8 @@ Frontend practice covering layouts, responsive design, styling, grids, and UI ex
 
 `React` · `Node.js` · `LLM architectures` · `AI product engineering`
 
+> **Stack philosophy:** learn the fundamentals first, then add tools when they help build better products.
+
 ---
 
 ## 🧭 Developer Journey
@@ -165,11 +173,7 @@ Hands-on learning through Google Skills badges, labs, assessments, and technolog
 
 ### 📚 Current learning areas
 
-- AI & LLM applications
-- Java & Data Structures
-- Full-stack web development
-- Software engineering fundamentals
-- Practical project development
+`AI & LLM applications` · `Java & Data Structures` · `Full-stack development` · `Software engineering` · `Project development`
 
 > **Certificates show what I studied. Projects show what I can build.**
 
@@ -194,7 +198,7 @@ Hands-on learning through Google Skills badges, labs, assessments, and technolog
 
 **AI Engineer → Full-Stack AI Product Builder**
 
-I'm working toward building software where **AI isn't just a feature added at the end — it's part of the product's core experience.**
+I'm working toward software where **AI isn't just a feature added at the end — it's part of the product's core experience.**
 
 ---
 
