@@ -248,10 +248,14 @@ I'm building my technical foundation through structured learning, hands-on proje
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saatwiksharma07&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saatwiksharma07&layout=compact&hide_border=true" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=saatwiksharma07&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saatwiksharma07&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top programming languages" />
 
 </div>
+
+<p align="center">
+  <sub>📈 A snapshot of my public GitHub activity and language distribution.</sub>
+</p>
 
 ---
 
