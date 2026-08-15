@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Top programming languages for saatwiksharma07">
+<rect width="495" height="195" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="28" y="34" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="20" font-weight="700">Top Languages</text>
+<text x="28" y="56" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="13">HTML</text>
+<text x="360" y="56" fill="#8b949e" font-family="Arial, sans-serif" font-size="13">84.6%</text>
+<text x="28" y="78" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="13">Java</text>
+<text x="360" y="78" fill="#8b949e" font-family="Arial, sans-serif" font-size="13">15.4%</text>
+<text x="28" y="118" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">Calculated from public owned repositories</text>
+<text x="28" y="139" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">Updated automatically by GitHub Actions</text>
+<text x="28" y="160" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">github.com/saatwiksharma07</text>
+</svg>
