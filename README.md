@@ -29,22 +29,58 @@ Currently, I'm building and improving an **AI Resume Analyzer** that can parse r
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🤖 AI Resume Analyzer
 
-An AI-powered resume analysis platform designed to help users understand their resume and identify meaningful ways to improve it.
+An AI-powered resume analysis platform I'm actively developing to help users understand and improve their resumes.
 
-**Current capabilities & direction:**
+**Focus:** PDF parsing · ATS analysis · AI insights · skills & project extraction · career recommendations
 
-- 📄 Resume PDF parsing
-- 🎯 ATS-style analysis
-- 🧠 AI-powered resume insights
-- 🛠️ Skill and project extraction
-- 📈 Career improvement recommendations
-- 🎨 Modern, user-friendly interface
+🔒 **Currently in development**
 
-> Turning a resume checker into a genuinely useful career product — not just another score generator.
+</td>
+<td width="50%">
+
+### 💼 Job Portal Site
+
+A web-based job portal project focused on building a practical interface for exploring and presenting job opportunities.
+
+**Stack:** HTML · CSS · Web UI
+
+🔗 [View repository](https://github.com/saatwiksharma07/JOB-PORTAL-SITE)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ☕ Java Practice
+
+A growing collection of Java practice work focused on strengthening programming fundamentals and problem-solving skills.
+
+**Focus:** Java · problem solving · programming fundamentals
+
+🔗 [View repository](https://github.com/saatwiksharma07/java)
+
+</td>
+<td width="50%">
+
+### 🎨 HTML & CSS Projects
+
+A collection of frontend practice projects covering layouts, responsive design, animations, grids, and interactive UI experiments.
+
+**Stack:** HTML · CSS
+
+🔗 [View repository](https://github.com/saatwiksharma07/HTML-AND-CSS)
+
+</td>
+</tr>
+</table>
 
 ---
 
