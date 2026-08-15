@@ -84,6 +84,25 @@ A collection of frontend practice projects covering layouts, responsive design, 
 
 ---
 
+## 🏆 Certifications & Achievements
+
+I'm building my technical foundation through structured learning, hands-on projects, and industry-recognized learning platforms.
+
+### 🎓 Google Skills
+
+- 🟦 **Google Skills badges** — hands-on learning across cloud, AI, and technology topics
+- 📚 Continuing to expand my badge collection through practical labs and assessments
+
+### 💼 Professional Learning
+
+- 🤖 AI & LLM-focused coursework and hands-on learning
+- 💻 Java, data structures, web development, and software engineering practice
+- 🧠 Continuous project-based learning through GitHub
+
+> **Learning principle:** certificates show what I've studied; projects show what I can build.
+
+---
+
 ## 💻 Tech Stack
 
 ### Languages
