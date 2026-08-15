@@ -1,14 +1,16 @@
 <div align="center">
 
-# 👋 Hey, I'm Saatwik Sharma
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Saatwik%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20Student%20%7C%20Builder&descAlignY=60&descSize=18" width="100%" alt="Saatwik Sharma profile banner" />
 
-### AI & Full-Stack Developer | Student | Builder 🚀
-
-Building practical software at the intersection of **AI, web development, and real-world problem solving.**
+### Building intelligent products. Learning by building. 🚀
 
 <p>
-  <a href="https://github.com/saatwiksharma07">GitHub</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="https://github.com/saatwiksharma07">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/saatwik-sharma-3039723a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 </div>
@@ -19,9 +21,11 @@ Building practical software at the intersection of **AI, web development, and re
 
 I'm a student who enjoys turning ideas into working software and learning by building.
 
-Right now, I'm especially interested in **AI applications, LLMs, full-stack development, and developer-focused tools**. I like projects where I can work across the whole stack — from designing the interface to writing the logic behind it.
+I'm especially interested in **AI applications, LLMs, full-stack development, and developer-focused tools**. I enjoy working across the stack — from designing the interface to building the logic behind it.
 
-Currently building and improving an **AI Resume Analyzer** that can parse resumes, evaluate ATS-related information, analyze skills and projects, and provide useful career-oriented insights.
+Currently, I'm building and improving an **AI Resume Analyzer** that can parse resumes, evaluate ATS-related information, analyze skills and projects, and provide useful career-oriented insights.
+
+> **My goal:** move from simply learning technologies to building products that people can actually use.
 
 ---
 
@@ -29,9 +33,10 @@ Currently building and improving an **AI Resume Analyzer** that can parse resume
 
 ### 🤖 AI Resume Analyzer
 
-An AI-powered resume analysis platform designed to help users understand how strong their resume is and how they can improve it.
+An AI-powered resume analysis platform designed to help users understand their resume and identify meaningful ways to improve it.
 
-**What I'm working on:**
+**Current capabilities & direction:**
+
 - 📄 Resume PDF parsing
 - 🎯 ATS-style analysis
 - 🧠 AI-powered resume insights
@@ -39,7 +44,7 @@ An AI-powered resume analysis platform designed to help users understand how str
 - 📈 Career improvement recommendations
 - 🎨 Modern, user-friendly interface
 
-> Goal: turn a resume checker into a genuinely useful career product rather than just a score generator.
+> Turning a resume checker into a genuinely useful career product — not just another score generator.
 
 ---
 
@@ -114,7 +119,7 @@ I'm always interested in connecting with people who enjoy **software development
   <a href="https://github.com/saatwiksharma07">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/saatwik-sharma-3039723a8/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -122,5 +127,7 @@ I'm always interested in connecting with people who enjoy **software development
 <div align="center">
 
 ### 🚀 Build. Learn. Improve. Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="Profile footer" />
 
 </div>
