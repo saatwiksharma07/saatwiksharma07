@@ -29,6 +29,59 @@ Currently, I'm building and improving an **AI Resume Analyzer** that can parse r
 
 ---
 
+## 🧭 My Developer Journey
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+### ☕
+**Java**
+
+Programming fundamentals
+
+</td>
+<td align="center" width="20%">
+
+### 🧩
+**DSA**
+
+Problem solving
+
+</td>
+<td align="center" width="20%">
+
+### 🌐
+**Web**
+
+Frontend & full-stack
+
+</td>
+<td align="center" width="20%">
+
+### 🧠
+**LLMs**
+
+AI applications
+
+</td>
+<td align="center" width="20%">
+
+### 🚀
+**AI Products**
+
+Build & ship
+
+</td>
+</tr>
+</table>
+
+**Java & DSA → Web Development → LLMs → AI-powered products**
+
+The direction is simple: **learn the fundamentals, build real projects, understand the technology behind them, and keep moving toward products that solve real problems.**
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
