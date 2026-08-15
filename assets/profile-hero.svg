@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300" role="img" aria-label="Saatwik Sharma profile hero">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#063f3a"/><stop offset="0.55" stop-color="#0b2f35"/><stop offset="1" stop-color="#102338"/></linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#21d4c4" stop-opacity=".65"/><stop offset="1" stop-color="#67e8f9" stop-opacity=".08"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000" flood-opacity=".28"/></filter>
+</defs>
+<rect x="3" y="3" width="1094" height="294" rx="28" fill="url(#bg)" stroke="#18c9b8" stroke-opacity=".75" stroke-width="2"/>
+<path d="M20 240 C220 160 350 270 520 190 S820 120 1080 185" fill="none" stroke="url(#glow)" stroke-width="3"/>
+<path d="M680 45 C800 10 930 80 1080 35" fill="none" stroke="#20b9b0" stroke-opacity=".2" stroke-width="2"/>
+<circle cx="145" cy="150" r="70" fill="#071b25" stroke="#22d3c5" stroke-width="3" filter="url(#shadow)"/>
+<circle cx="145" cy="150" r="58" fill="#102b42"/>
+<text x="145" y="167" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="52" font-weight="800" fill="#67e8f9">SS</text>
+<text x="245" y="75" font-family="monospace" font-size="17" font-weight="700" letter-spacing="5" fill="#4de4d2">@SAATWIKSHARMA07</text>
+<text x="245" y="133" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="800" fill="#d8fff7">Saatwik Sharma</text>
+<text x="248" y="169" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#64e6d6">AI &amp; Full-Stack Developer • Student • Builder</text>
+<text x="248" y="198" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#b8d9d7">Building AI applications, learning LLMs, and turning ideas into real products.</text>
+<g font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700">
+ <rect x="248" y="225" width="112" height="36" rx="18" fill="#0b3840" stroke="#22c8ba"/><text x="304" y="248" text-anchor="middle" fill="#bffbf2">Java</text>
+ <rect x="372" y="225" width="112" height="36" rx="18" fill="#0b3840" stroke="#22c8ba"/><text x="428" y="248" text-anchor="middle" fill="#bffbf2">Python</text>
+ <rect x="496" y="225" width="132" height="36" rx="18" fill="#0b3840" stroke="#22c8ba"/><text x="562" y="248" text-anchor="middle" fill="#bffbf2">JavaScript</text>
+ <rect x="640" y="225" width="112" height="36" rx="18" fill="#0b3840" stroke="#22c8ba"/><text x="696" y="248" text-anchor="middle" fill="#bffbf2">LLMs</text>
+ <rect x="764" y="225" width="154" height="36" rx="18" fill="#0b3840" stroke="#22c8ba"/><text x="841" y="248" text-anchor="middle" fill="#bffbf2">AI Products</text>
+</g>
+<text x="1030" y="62" text-anchor="end" font-family="monospace" font-size="12" fill="#67e8f9">BUILD • LEARN • SHIP</text>
+</svg>
