@@ -82,6 +82,45 @@ The direction is simple: **learn the fundamentals, build real projects, understa
 
 ---
 
+## 🧠 AI & LLM Lab
+
+I'm exploring AI from two sides: **understanding how the technology works** and **using it to build useful applications**.
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔬 LLM from Scratch
+
+A hands-on learning project focused on understanding the building blocks behind large language models instead of treating them as a black box.
+
+**Exploring:** tokenization · model architecture · training concepts · language modeling
+
+🔒 **Currently in development**
+
+</td>
+<td width="50%">
+
+### 🤖 AI Resume Analyzer
+
+A practical AI product where I'm applying resume parsing, structured extraction, ATS-style analysis, and AI-generated career insights.
+
+**Exploring:** LLM applications · PDF processing · structured data · AI product design
+
+🔒 **Currently in development**
+
+</td>
+</tr>
+</table>
+
+### My AI approach
+
+**Understand → Experiment → Build → Improve**
+
+I want to understand what's happening under the hood while also learning how to turn AI capabilities into products that solve real problems.
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
