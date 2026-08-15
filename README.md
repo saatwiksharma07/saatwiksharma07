@@ -1,90 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Saatwik%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20Student%20%7C%20Builder&descAlignY=60&descSize=18" width="100%" alt="Saatwik Sharma profile banner" />
+<img src="./assets/profile-hero.svg" width="100%" alt="Saatwik Sharma profile hero" />
 
-### Building intelligent products. Learning by building. 🚀
+<br/>
 
-<p>
-  <a href="https://github.com/saatwiksharma07">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/saatwik-sharma-3039723a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<a href="https://github.com/saatwiksharma07">GitHub</a> •
+<a href="https://www.linkedin.com/in/saatwik-sharma-3039723a8/">LinkedIn</a> •
+<a href="https://github.com/saatwiksharma07?tab=repositories">Projects</a>
 
 </div>
 
----
+<br/>
 
-## 🧠 About Me
+<img src="./assets/terminal.svg" width="100%" alt="Saatwik Sharma terminal introduction" />
 
-I'm a student who enjoys turning ideas into working software and learning by building.
+<br/>
 
-I'm especially interested in **AI applications, LLMs, full-stack development, and developer-focused tools**. I enjoy working across the stack — from designing the interface to building the logic behind it.
+## Building intelligent software for real problems
 
-Currently, I'm building and improving an **AI Resume Analyzer** that can parse resumes, evaluate ATS-related information, analyze skills and projects, and provide useful career-oriented insights.
+I'm a student and developer focused on **AI applications, LLMs, full-stack development, and problem solving**.
 
-> **My goal:** move from simply learning technologies to building products that people can actually use.
+I enjoy going beyond tutorials — understanding how technology works, experimenting with it, and turning what I learn into projects people can actually use.
 
----
+Right now, I'm especially focused on **AI products and LLMs**, while strengthening my foundations through **Java, DSA, web development, and software engineering**.
 
-## 🧭 My Developer Journey
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-### ☕
-**Java**
-
-Programming fundamentals
-
-</td>
-<td align="center" width="20%">
-
-### 🧩
-**DSA**
-
-Problem solving
-
-</td>
-<td align="center" width="20%">
-
-### 🌐
-**Web**
-
-Frontend & full-stack
-
-</td>
-<td align="center" width="20%">
-
-### 🧠
-**LLMs**
-
-AI applications
-
-</td>
-<td align="center" width="20%">
-
-### 🚀
-**AI Products**
-
-Build & ship
-
-</td>
-</tr>
-</table>
-
-**Java & DSA → Web Development → LLMs → AI-powered products**
-
-The direction is simple: **learn the fundamentals, build real projects, understand the technology behind them, and keep moving toward products that solve real problems.**
+> **Learn the fundamentals. Build the product. Understand what's under the hood. Keep improving.**
 
 ---
 
-## 🧠 AI & LLM Lab
-
-I'm exploring AI from two sides: **understanding how the technology works** and **using it to build useful applications**.
+## 🧠 AI / LLM Lab
 
 <table>
 <tr>
@@ -92,36 +36,36 @@ I'm exploring AI from two sides: **understanding how the technology works** and 
 
 ### 🔬 LLM from Scratch
 
-A hands-on learning project focused on understanding the building blocks behind large language models instead of treating them as a black box.
+Learning the fundamentals behind language models instead of treating them as a black box.
 
-**Exploring:** tokenization · model architecture · training concepts · language modeling
+**Exploring**
 
-🔒 **Currently in development**
+`Tokenization` · `Architecture` · `Training` · `Language Modeling`
 
 </td>
 <td width="50%">
 
 ### 🤖 AI Resume Analyzer
 
-A practical AI product where I'm applying resume parsing, structured extraction, ATS-style analysis, and AI-generated career insights.
+Building a practical AI product that turns a resume PDF into structured insights and useful career recommendations.
 
-**Exploring:** LLM applications · PDF processing · structured data · AI product design
+**Working with**
 
-🔒 **Currently in development**
+`PDF Parsing` · `ATS Analysis` · `AI Insights` · `Structured Extraction`
 
 </td>
 </tr>
 </table>
 
-### My AI approach
+### My approach
 
 **Understand → Experiment → Build → Improve**
 
-I want to understand what's happening under the hood while also learning how to turn AI capabilities into products that solve real problems.
+I'm interested in both sides of AI: **understanding the technology** and **shipping useful applications with it**.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
 <table>
 <tr>
@@ -129,22 +73,20 @@ I want to understand what's happening under the hood while also learning how to 
 
 ### 🤖 AI Resume Analyzer
 
-An AI-powered resume analysis platform I'm actively developing to help users understand and improve their resumes.
+An AI-powered resume analysis platform focused on parsing resumes, evaluating ATS-related information, extracting skills and projects, and generating career-oriented insights.
 
-**Focus:** PDF parsing · ATS analysis · AI insights · skills & project extraction · career recommendations
-
-🔒 **Currently in development**
+**Status:** 🔨 Building
 
 </td>
 <td width="50%">
 
 ### 💼 Job Portal Site
 
-A web-based job portal project focused on building a practical interface for exploring and presenting job opportunities.
+A web project for exploring and presenting job opportunities, built while strengthening frontend and web-development fundamentals.
 
-**Stack:** HTML · CSS · Web UI
+**Stack:** `HTML` `CSS`
 
-🔗 [View repository](https://github.com/saatwiksharma07/JOB-PORTAL-SITE)
+<a href="https://github.com/saatwiksharma07/JOB-PORTAL-SITE">View project →</a>
 
 </td>
 </tr>
@@ -153,22 +95,22 @@ A web-based job portal project focused on building a practical interface for exp
 
 ### ☕ Java Practice
 
-A growing collection of Java practice work focused on strengthening programming fundamentals and problem-solving skills.
+A growing collection of Java programs and problem-solving practice used to strengthen programming fundamentals and DSA thinking.
 
-**Focus:** Java · problem solving · programming fundamentals
+**Stack:** `Java`
 
-🔗 [View repository](https://github.com/saatwiksharma07/java)
+<a href="https://github.com/saatwiksharma07/java">View project →</a>
 
 </td>
 <td width="50%">
 
-### 🎨 HTML & CSS Projects
+### 🎨 HTML & CSS
 
-A collection of frontend practice projects covering layouts, responsive design, animations, grids, and interactive UI experiments.
+Frontend practice covering layouts, responsive design, styling, grids, and UI experiments.
 
-**Stack:** HTML · CSS
+**Stack:** `HTML` `CSS`
 
-🔗 [View repository](https://github.com/saatwiksharma07/HTML-AND-CSS)
+<a href="https://github.com/saatwiksharma07/HTML-AND-CSS">View project →</a>
 
 </td>
 </tr>
@@ -176,114 +118,104 @@ A collection of frontend practice projects covering layouts, responsive design, 
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🛠️ Technologies I Work With
 
-I'm building my technical foundation through structured learning, hands-on projects, and industry-recognized learning platforms.
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode" alt="Java, Python, JavaScript, HTML, CSS, Git, GitHub, VS Code" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI%20Applications-0f766e?style=for-the-badge" alt="AI Applications" />
+<img src="https://img.shields.io/badge/LLMs-164e63?style=for-the-badge" alt="LLMs" />
+<img src="https://img.shields.io/badge/PDF%20Processing-334155?style=for-the-badge" alt="PDF Processing" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-475569?style=for-the-badge" alt="Prompt Engineering" />
+
+</div>
+
+### Currently exploring
+
+`React` · `Node.js` · `LLM architectures` · `AI product engineering`
+
+---
+
+## 🧭 Developer Journey
+
+```text
+Java & DSA
+     ↓
+Web Development
+     ↓
+Full-Stack Development
+     ↓
+LLMs & AI Applications
+     ↓
+Production-ready AI Products
+```
+
+The goal isn't to collect technologies. It's to **understand them well enough to build with them**.
+
+---
+
+## 🏆 Learning & Certifications
 
 ### 🎓 Google Skills
 
-- 🟦 **Google Skills badges** — hands-on learning across cloud, AI, and technology topics
-- 📚 Continuing to expand my badge collection through practical labs and assessments
+Hands-on learning through Google Skills badges, labs, assessments, and technology-focused coursework.
 
-### 💼 Professional Learning
+### 📚 Current learning areas
 
-- 🤖 AI & LLM-focused coursework and hands-on learning
-- 💻 Java, data structures, web development, and software engineering practice
-- 🧠 Continuous project-based learning through GitHub
+- AI & LLM applications
+- Java & Data Structures
+- Full-stack web development
+- Software engineering fundamentals
+- Practical project development
 
-> **Learning principle:** certificates show what I've studied; projects show what I can build.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js" alt="Java, Python, JavaScript" />
-</p>
-
-### 🌐 Frontend & Web
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" />
-</p>
-
-### 🤖 AI & LLM
-
-<p>
-  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" alt="LLMs" />
-  <img src="https://img.shields.io/badge/AI%20Applications-2563EB?style=for-the-badge" alt="AI Applications" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/PDF%20Processing-DC2626?style=for-the-badge" alt="PDF Processing" />
-</p>
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
-</p>
-
-### 🧪 Currently Exploring
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs" alt="React and Node.js" />
-</p>
-
-> **Stack philosophy:** learn the fundamentals first, then add tools when they help build better products.
+> **Certificates show what I studied. Projects show what I can build.**
 
 ---
 
-## 📌 What I'm Focused On
-
-- 🤖 Building useful AI-powered products
-- 🌐 Improving my full-stack development skills
-- 🧠 Learning more about LLMs and AI systems
-- 💼 Building projects that are strong enough for a professional portfolio
-- 📚 Consistently improving through coding and practical projects
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
 <img src="./assets/github-stats.svg" height="195" alt="GitHub statistics" />
 <img src="./assets/top-languages.svg" height="195" alt="Top programming languages" />
 
-</div>
+<br/>
 
-<p align="center">
-  <sub>📈 Self-hosted stats generated from my public repositories and updated automatically with GitHub Actions.</sub>
-</p>
+<sub>Self-hosted profile stats • automatically refreshed with GitHub Actions</sub>
+
+</div>
 
 ---
 
-## 🌱 Current Learning Path
+## 🎯 What I'm Building Toward
 
-**Java → Data Structures & Algorithms → Full-Stack Development → AI/LLM Applications → Production-ready AI Products**
+**AI Engineer → Full-Stack AI Product Builder**
 
-I'm focused on moving from **learning concepts** to **building systems people can actually use**.
+I'm working toward building software where **AI isn't just a feature added at the end — it's part of the product's core experience.**
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with people who enjoy **software development, AI, open source, and building ambitious projects.**
-
-<p align="center">
-  <a href="https://github.com/saatwiksharma07">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/saatwik-sharma-3039723a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
 <div align="center">
 
-### 🚀 Build. Learn. Improve. Repeat.
+If you're interested in **AI, LLMs, full-stack development, open source, or building ambitious products**, let's connect.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="Profile footer" />
+<br/><br/>
+
+<a href="https://github.com/saatwiksharma07">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/saatwik-sharma-3039723a8/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br/><br/>
+
+### 🚀 Build. Learn. Ship. Repeat.
 
 </div>
