@@ -201,16 +201,6 @@ I'm building my technical foundation through structured learning, hands-on proje
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=saatwiksharma07&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
-
 ## 🌱 Current Learning Path
 
 **Java → Data Structures & Algorithms → Full-Stack Development → AI/LLM Applications → Production-ready AI Products**
