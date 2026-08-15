@@ -195,27 +195,42 @@ I'm building my technical foundation through structured learning, hands-on proje
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Languages" />
-</p>
-
-### Tools & Technologies
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=java,python,js" alt="Java, Python, JavaScript" />
 </p>
 
-### Currently Exploring
+### 🌐 Frontend & Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,react" alt="Currently exploring" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" />
 </p>
 
-**Also exploring:** AI/ML, LLM applications, prompt engineering, PDF processing, and modern web architecture.
+### 🤖 AI & LLM
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" alt="LLMs" />
+  <img src="https://img.shields.io/badge/AI%20Applications-2563EB?style=for-the-badge" alt="AI Applications" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/PDF%20Processing-DC2626?style=for-the-badge" alt="PDF Processing" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
+</p>
+
+### 🧪 Currently Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs" alt="React and Node.js" />
+</p>
+
+> **Stack philosophy:** learn the fundamentals first, then add tools when they help build better products.
 
 ---
 
