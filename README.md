@@ -183,8 +183,8 @@ Hands-on learning through Google Skills badges, labs, assessments, and technolog
 
 <div align="center">
 
-<img src="./assets/github-stats.svg" height="195" alt="GitHub statistics" />
-<img src="./assets/top-languages.svg" height="195" alt="Top programming languages" />
+<img src="./assets/github-stats.svg?v=20260815-4" height="195" alt="GitHub statistics" />
+<img src="./assets/top-languages.svg?v=20260815" height="195" alt="Top programming languages" />
 
 <br/>
 
