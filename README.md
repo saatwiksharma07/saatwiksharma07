@@ -86,11 +86,13 @@ An AI-powered resume platform focused on resume parsing, ATS-related analysis, s
 </td>
 <td width="50%">
 
-### 💼 Job Portal Site
+### 💼 CareerConnect — Job Portal
 
-A web project for exploring and presenting job opportunities, built while strengthening frontend and web-development fundamentals.
+A polished multi-page job portal designed around a complete job-seeking experience. Users can explore jobs, companies, and career resources, while dedicated login, registration, profile, employer, and application flows make it feel like a real product rather than a single landing page.
 
-**Stack:** `HTML` `CSS`
+**Features:** `Job Search` · `Company Discovery` · `Profiles` · `Applications` · `Employer Flow` · `Responsive UI`
+
+**Stack:** `HTML` · `CSS` · `JavaScript`
 
 <a href="https://github.com/saatwiksharma07/JOB-PORTAL-SITE">View project →</a>
 
@@ -114,7 +116,7 @@ A growing collection of Java programs and problem-solving practice used to stren
 
 Frontend practice covering layouts, responsive design, styling, grids, and UI experiments.
 
-**Stack:** `HTML` `CSS`
+**Stack:** `HTML` · `CSS`
 
 <a href="https://github.com/saatwiksharma07/HTML-AND-CSS">View project →</a>
 
