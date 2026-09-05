@@ -16,154 +16,133 @@
 
 <br/>
 
-## Building intelligent software for real problems
+## 👋 Hi, I'm Saatwik Sharma
 
-I'm a student and developer focused on **AI applications, LLMs, full-stack development, and problem solving**.
+I'm a **CSE student and AI/ML-focused developer** building software at the intersection of **AI, LLMs, full-stack development, and problem solving**.
 
-I like going beyond tutorials: **understand the technology, experiment with it, and turn what I learn into useful software.**
+I learn by building: I take concepts from **Java, Python, web development, backend systems, and machine learning** and turn them into working projects.
 
-Right now, my main focus is **AI products and LLMs**, while strengthening my foundations through **Java, DSA, web development, and software engineering**.
-
-> **Learn the fundamentals. Build the product. Understand what's under the hood. Keep improving.**
+> **Learn the fundamentals → understand what's under the hood → build → test → improve.**
 
 ---
 
-## 🧠 AI / LLM Lab
+## 🧠 What I'm Focused On
 
-I'm exploring AI from two sides: **understanding how the technology works** and **using it to build useful applications**.
+- 🤖 **AI applications & AI product engineering**
+- 🧩 **LLMs and learning how they work from scratch**
+- 🌐 **Full-stack web development**
+- 💻 **Java, DSA & programming fundamentals**
+- 🚀 Building practical products instead of tutorial-only projects
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔬 LLM from Scratch
+### 🤖 GO RESUME — AI Resume Analyzer
 
-A hands-on learning project for understanding the building blocks behind language models instead of treating them as a black box.
+My main AI product project. It turns a resume PDF into structured information and combines **ATS analysis, career evidence, GitHub verification, LinkedIn evidence, reporting, and job-description matching**.
 
-**Exploring**
+**Tech:** `JavaScript` · `Node.js` · `Supabase/PostgreSQL` · `PDF.js` · `Vercel`
 
-`Tokenization` · `Architecture` · `Training` · `Language Modeling`
+**Status:** 🔨 Actively building
 
-🔒 **Private • In development**
+<a href="https://github.com/saatwiksharma07/AI-RESUME-ANALYSER">View repository →</a>
 
 </td>
 <td width="50%">
 
-### 🤖 AI Resume Analyzer
+### 🧠 LLM from Scratch
 
-A practical AI product that turns a resume PDF into structured information, ATS-oriented analysis, and career-focused insights.
+A hands-on project for learning the foundations behind language models rather than treating them as a black box.
 
-**Working with**
+Currently exploring the implementation side of **tokenization, language modeling, model architecture, data, and training**.
 
-`PDF Parsing` · `ATS Analysis` · `AI Insights` · `Structured Extraction`
+**Tech:** `Python`
 
-🔨 **Actively building**
+**Status:** 🧪 Learning / In development
 
 </td>
 </tr>
-</table>
-
-### My approach
-
-**Understand → Experiment → Build → Improve**
-
-I want to understand what's happening under the hood while learning how to turn AI capabilities into products that solve real problems.
-
----
-
-## 🚀 Selected Projects
-
-<table>
 <tr>
-<td width="50%">
-
-### 🤖 AI Resume Analyzer
-
-An AI-powered resume platform focused on resume parsing, ATS-related analysis, skill and project extraction, and career-oriented recommendations.
-
-**Status:** 🔨 Building
-
-</td>
 <td width="50%">
 
 ### 💼 CareerConnect — Job Portal
 
-A polished multi-page job portal designed around a complete job-seeking experience. Users can explore jobs, companies, and career resources, while dedicated login, registration, profile, employer, and application flows make it feel like a real product rather than a single landing page.
+A multi-page job portal built to feel like a real product, with **job discovery, companies, profiles, authentication, applications, employer flows, and responsive UI**.
 
-**Features:** `Job Search` · `Company Discovery` · `Profiles` · `Applications` · `Employer Flow` · `Responsive UI`
+**Tech:** `HTML` · `CSS` · `JavaScript`
 
-**Stack:** `HTML` · `CSS` · `JavaScript`
-
-<a href="https://github.com/saatwiksharma07/JOB-PORTAL-SITE">View project →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ☕ Java Practice
-
-A growing collection of Java programs and problem-solving practice used to strengthen programming fundamentals and DSA thinking.
-
-**Stack:** `Java`
-
-<a href="https://github.com/saatwiksharma07/java">View project →</a>
+<a href="https://github.com/saatwiksharma07/JOB-PORTAL-SITE">View repository →</a>
 
 </td>
 <td width="50%">
 
-### 🎨 HTML & CSS
+### 🌐 SupplySphere
 
-Frontend practice covering layouts, responsive design, styling, grids, and UI experiments.
+A project built around the **resilient supply-chain** problem space, created as part of my hackathon work.
 
-**Stack:** `HTML` · `CSS`
+**Focus:** `Supply Chain` · `Resilience` · `Product Development`
 
-<a href="https://github.com/saatwiksharma07/HTML-AND-CSS">View project →</a>
+<a href="https://github.com/saatwiksharma07/SupplySphere">View repository →</a>
 
 </td>
 </tr>
 </table>
 
+### Other work
+
+- ☕ **[Java](https://github.com/saatwiksharma07/java)** — Java practice, programming fundamentals and DSA-oriented problem solving.
+- 🎨 **[HTML & CSS](https://github.com/saatwiksharma07/HTML-AND-CSS)** — frontend layouts, styling and UI experiments.
+- ❤️ **[HEART-FORMING](https://github.com/saatwiksharma07/HEART-FORMING)** — a creative web project and frontend experiment.
+
 ---
 
-## 🛠️ Technologies I Work With
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode" alt="Java, Python, JavaScript, HTML, CSS, Git, GitHub, VS Code" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,git,github,vscode,supabase" alt="Java, Python, JavaScript, HTML, CSS, React, Node.js, Git, GitHub, VS Code, Supabase" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AI%20Applications-0f766e?style=for-the-badge" alt="AI Applications" />
+<img src="https://img.shields.io/badge/AI%20Engineering-0f766e?style=for-the-badge" alt="AI Engineering" />
 <img src="https://img.shields.io/badge/LLMs-164e63?style=for-the-badge" alt="LLMs" />
-<img src="https://img.shields.io/badge/PDF%20Processing-334155?style=for-the-badge" alt="PDF Processing" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-475569?style=for-the-badge" alt="Prompt Engineering" />
+<img src="https://img.shields.io/badge/Full--Stack-334155?style=for-the-badge" alt="Full Stack" />
+<img src="https://img.shields.io/badge/DSA-475569?style=for-the-badge" alt="DSA" />
 
 </div>
 
-### Currently exploring
+### Currently learning / exploring
 
-`React` · `Node.js` · `LLM architectures` · `AI product engineering`
+`LLM architectures` · `AI product engineering` · `React` · `Node.js` · `Python ML` · `DSA` · `Backend development`
 
-> **Stack philosophy:** learn the fundamentals first, then add tools when they help build better products.
+> **Stack philosophy:** I don't want to just know how to use a tool. I want to understand why it works and when it should be used.
 
 ---
 
-## 🧭 Developer Journey
+## 🧪 My AI Learning Path
 
 ```text
-Java & DSA
-     ↓
+Programming Fundamentals
+        ↓
+Java + DSA
+        ↓
 Web Development
-     ↓
-Full-Stack Development
-     ↓
-LLMs & AI Applications
-     ↓
-Production-ready AI Products
+        ↓
+Full-Stack Applications
+        ↓
+AI Applications
+        ↓
+LLMs + ML Fundamentals
+        ↓
+Production AI Products
 ```
 
-The goal isn't to collect technologies. It's to **understand them well enough to build with them**.
+My current goal is to move from **using AI APIs → understanding AI systems → building AI systems and products myself**.
 
 ---
 
@@ -171,36 +150,43 @@ The goal isn't to collect technologies. It's to **understand them well enough to
 
 ### 🎓 Google Skills
 
-Hands-on learning through Google Skills badges, labs, assessments, and technology-focused coursework.
+Hands-on learning through Google Skills badges, labs, assessments and technology-focused coursework.
 
 ### 📚 Current learning areas
 
-`AI & LLM applications` · `Java & Data Structures` · `Full-stack development` · `Software engineering` · `Project development`
+`Artificial Intelligence` · `Machine Learning` · `LLMs` · `Java & DSA` · `Full-Stack Development` · `Software Engineering`
 
 > **Certificates show what I studied. Projects show what I can build.**
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="./assets/github-stats.svg?v=20260815-4" height="195" alt="GitHub statistics" />
-<img src="./assets/top-languages.svg?v=20260815" height="195" alt="Top programming languages" />
+<img src="./assets/github-stats.svg?v=20260905" height="195" alt="GitHub statistics" />
+<img src="./assets/top-languages.svg?v=20260905" height="195" alt="Top programming languages" />
 
 <br/>
 
-<sub>Self-hosted profile stats • automatically refreshed with GitHub Actions</sub>
+<sub>Profile statistics automatically refreshed with GitHub Actions</sub>
 
 </div>
 
 ---
 
-## 🎯 What I'm Building Toward
+## 🎯 Where I'm Heading
 
-**AI Engineer → Full-Stack AI Product Builder**
+### **AI Engineer → Full-Stack AI Product Builder**
 
-I'm working toward software where **AI isn't just a feature added at the end — it's part of the product's core experience.**
+I want to build products where **AI is part of the core experience**, not just an API call added to a normal application.
+
+Long term, I'm interested in:
+
+- Building and understanding **LLMs and ML systems**
+- Creating **AI-powered SaaS products**
+- Combining strong software engineering with AI
+- Turning ideas into **real, usable products**
 
 ---
 
@@ -208,7 +194,7 @@ I'm working toward software where **AI isn't just a feature added at the end —
 
 <div align="center">
 
-If you're interested in **AI, LLMs, full-stack development, open source, or building ambitious products**, let's connect.
+If you're interested in **AI, LLMs, software engineering, full-stack development, or building ambitious products**, let's connect.
 
 <br/><br/>
 
