@@ -2,9 +2,9 @@
 <rect width="495" height="195" rx="10" fill="#0d1117" stroke="#30363d"/>
 <text x="28" y="38" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="20" font-weight="700">GitHub Stats</text>
 <text x="28" y="76" fill="#8b949e" font-family="Arial, sans-serif" font-size="13">Public repositories</text>
-<text x="28" y="101" fill="#58a6ff" font-family="Arial, sans-serif" font-size="22" font-weight="700">5</text>
+<text x="28" y="101" fill="#58a6ff" font-family="Arial, sans-serif" font-size="22" font-weight="700">6</text>
 <text x="190" y="76" fill="#8b949e" font-family="Arial, sans-serif" font-size="13">Followers</text>
-<text x="190" y="101" fill="#58a6ff" font-family="Arial, sans-serif" font-size="22" font-weight="700">7</text>
+<text x="190" y="101" fill="#58a6ff" font-family="Arial, sans-serif" font-size="22" font-weight="700">9</text>
 <text x="340" y="76" fill="#8b949e" font-family="Arial, sans-serif" font-size="13">Stars earned</text>
 <text x="340" y="101" fill="#58a6ff" font-family="Arial, sans-serif" font-size="22" font-weight="700">0</text>
 <line x1="28" y1="126" x2="467" y2="126" stroke="#30363d"/>
