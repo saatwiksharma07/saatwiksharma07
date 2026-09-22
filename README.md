@@ -24,9 +24,11 @@ AI • Full-Stack • UI/UX • LLMs • Software Engineering
 
 AI Products · Full-Stack Apps · Modern UIs · LLM Experiments
 
+<br>
+
 </div>
 
-<table>
+<table align="center" width="900">
 <tr>
 <td width="50%" valign="top">
 
@@ -73,15 +75,17 @@ Mathematical art · Canvas · Python Turtle
 </tr>
 </table>
 
----
+<br>
 
 <div align="center">
+
+---
 
 ## 🧰 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nextjs,nodejs,git,github,vscode,supabase" alt="Tech stack" />
 
-<br>
+<br><br>
 
 AI Engineering · LLMs · Full-Stack · DSA
 
@@ -98,6 +102,8 @@ AI Engineering · LLMs · Full-Stack · DSA
 ### 🎯 AI Engineer → Full-Stack AI Product Builder
 
 *Learn. Build. Ship. Improve.*
+
+<br>
 
 <img src="./assets/github-stats.svg?v=20260922" height="170" alt="GitHub statistics" />
 <img src="./assets/top-languages.svg?v=20260922" height="170" alt="Top languages" />
