@@ -6,8 +6,9 @@
 
 ### AI/ML Developer · Full-Stack Builder · CSE Student
 
-**I turn ideas into products.**  
-AI • Web • Software Engineering • Interactive Experiences
+**Building ideas into useful products.**
+
+AI • Full-Stack • UI/UX • LLMs • Software Engineering
 
 <a href="https://github.com/saatwiksharma07">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
@@ -16,12 +17,8 @@ AI • Web • Software Engineering • Interactive Experiences
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/saatwiksharma07?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-0f766e?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Explore%20Projects-0f766e?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=saatwiksharma07&style=for-the-badge&color=0f766e" alt="Profile views" />
 
 </div>
 
@@ -31,7 +28,7 @@ AI • Web • Software Engineering • Interactive Experiences
 
 ## ⚡ What I Build
 
-**AI Products** · **Full-Stack Apps** · **Modern UIs** · **LLM Experiments**
+**AI Products** · **Full-Stack Apps** · **Interactive Experiences** · **LLM Experiments**
 
 </div>
 
@@ -41,48 +38,67 @@ AI • Web • Software Engineering • Interactive Experiences
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 GO RESUME
+<h3>🤖 GO RESUME</h3>
 
-**AI Resume Analyzer**
+<b>AI Resume Analyzer</b>
 
-Resume parsing · ATS analysis · Job matching
+<br/><br/>
 
-JavaScript · PDF.js · Supabase · Vercel
+Resume parsing • ATS analysis • Job matching
+
+<br/><br/>
+
+<code>JavaScript</code> <code>PDF.js</code> <code>Supabase</code> <code>Vercel</code>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🎞️ DREAMFRAME
+<h3>🎞️ DREAMFRAME</h3>
 
-**AI Image Experience**
+<b>AI Image Experience</b>
 
-Cinematic visuals · Scroll interactions · Product UI
+<br/><br/>
 
-Next.js · React · TypeScript
+Cinematic visuals • Scroll interactions • Product UI
+
+<br/><br/>
+
+<code>Next.js</code> <code>React</code> <code>TypeScript</code>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 💼 CAREERCONNECT
+<h3>💼 CAREERCONNECT</h3>
 
-**Job Portal**
+<b>Job Portal</b>
 
-Jobs · Companies · Profiles · Applications
+<br/><br/>
 
-HTML · CSS · JavaScript
+Jobs • Companies • Profiles • Applications
+
+<br/><br/>
+
+<code>HTML</code> <code>CSS</code> <code>JavaScript</code>
 
 </td>
+
 <td width="50%" valign="top">
 
-### ❤️ HEART FORMING
+<h3>❤️ HEART FORMING</h3>
 
-**Creative Animation**
+<b>Creative Animation</b>
 
-Mathematical art · Canvas · Python Turtle
+<br/><br/>
 
-Python · JavaScript · Canvas
+Mathematical art • Canvas • Python Turtle
+
+<br/><br/>
+
+<code>Python</code> <code>JavaScript</code> <code>Canvas</code>
 
 </td>
 </tr>
@@ -90,18 +106,15 @@ Python · JavaScript · Canvas
 
 ---
 
-## 🧰 Tech I Use
-
 <div align="center">
+
+## 🧰 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nextjs,nodejs,git,github,vscode,supabase" alt="Tech stack" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AI%20Engineering-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Full--Stack-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DSA-111827?style=for-the-badge" />
+AI Engineering&nbsp;&nbsp;•&nbsp;&nbsp;LLMs&nbsp;&nbsp;•&nbsp;&nbsp;Full-Stack&nbsp;&nbsp;•&nbsp;&nbsp;DSA
 
 </div>
 
@@ -109,21 +122,29 @@ Python · JavaScript · Canvas
 
 <div align="center">
 
-## 🔭 Currently Building
+## 🔭 Building Now
 
-**AI Resume Analyzer** · **LLM-from-Scratch** · **DreamFrame**
+🤖 **AI Resume Analyzer** &nbsp; • &nbsp;
+🧠 **LLM-from-Scratch** &nbsp; • &nbsp;
+🎞️ **DreamFrame**
+
+<br/><br/>
 
 ### 🎯 AI Engineer → Full-Stack AI Product Builder
 
 *Learn. Build. Ship. Improve.*
 
-<br/>
+</div>
 
-<img src="./assets/github-stats.svg?v=20260922" height="180" alt="GitHub statistics" />
-<img src="./assets/top-languages.svg?v=20260922" height="180" alt="Top languages" />
+---
+
+<div align="center">
+
+<img src="./assets/github-stats.svg?v=20260922" height="175" alt="GitHub statistics" />
+<img src="./assets/top-languages.svg?v=20260922" height="175" alt="Top languages" />
 
 <br/><br/>
 
-**Building at the intersection of AI × Engineering × Design.**
+**AI × Engineering × Design**
 
 </div>
