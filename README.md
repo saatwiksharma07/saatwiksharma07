@@ -24,23 +24,24 @@
 
 **CSE student • AI/ML-focused developer • Full-stack builder**
 
-I build practical software around **AI, LLMs, web development, backend systems, and problem solving**. My approach is simple: learn the fundamentals, understand what's happening under the hood, build something real, test it, and keep improving.
+I build practical software across **AI, web development, backend systems, Java, Python, and problem solving**. I like turning what I learn into working products, experiments, and systems.
 
 > **Learn → Understand → Build → Test → Ship → Improve**
 
 ---
 
-## 🧠 What I'm Building Toward
+## 🧠 What I'm Working On
 
 - 🤖 **AI engineering & AI-powered products**
 - 🧩 **LLMs and machine-learning fundamentals**
-- 🌐 **Full-stack web applications**
-- 💻 **Java, Python, DSA & software engineering**
-- 🚀 **Production-minded SaaS and developer projects**
+- 🌐 **Full-stack web development**
+- 💻 **Java, Python & DSA**
+- 🎨 **Interactive UI and frontend experiences**
+- 🚀 **Product-focused software engineering**
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
 <table>
 <tr>
@@ -48,26 +49,22 @@ I build practical software around **AI, LLMs, web development, backend systems, 
 
 ### 🤖 GO RESUME — AI Resume Analyzer
 
-An AI-powered career product that analyzes resumes and connects career evidence across **ATS scoring, GitHub, LinkedIn, reporting, and job-description matching**.
+My main AI product in active development. It combines **resume parsing, ATS analysis, career evidence, GitHub/LinkedIn verification, reporting, and job-description matching**.
 
 **Stack:** `JavaScript` · `Node.js` · `Supabase/PostgreSQL` · `PDF.js` · `Vercel`
 
-**Status:** 🔨 Actively building
-
-<a href="https://github.com/saatwiksharma07/AI-RESUME-ANALYSER">View repository →</a>
+**Status:** 🔨 Active development
 
 </td>
 <td width="50%">
 
-### 🧠 LLM Learning
+### 🎞️ DreamFrame — AI Image Experience
 
-A hands-on path toward understanding language models beyond simply calling an API.
+A Next.js product concept focused on an **AI image-generation experience** with a cinematic landing page, scroll-driven visual sequence, logo marquee, and bento-style product sections.
 
-Exploring **tokenization, language modeling, model architecture, data, training, and AI system design**.
+**Stack:** `Next.js` · `React` · `TypeScript` · `Tailwind CSS`
 
-**Stack:** `Python`
-
-**Status:** 🧪 Learning / In development
+**Status:** 🧪 In development
 
 </td>
 </tr>
@@ -77,7 +74,7 @@ Exploring **tokenization, language modeling, model architecture, data, training,
 
 ### 💼 CareerConnect — Job Portal
 
-A product-style job portal with **job discovery, companies, profiles, authentication, applications, employer flows, and responsive UI**.
+A multi-page job portal built with **job discovery, company pages, profiles, authentication, applications, employer flows, and responsive UI**.
 
 **Stack:** `HTML` · `CSS` · `JavaScript`
 
@@ -86,23 +83,28 @@ A product-style job portal with **job discovery, companies, profiles, authentica
 </td>
 <td width="50%">
 
-### 🌐 SupplySphere
+### ❤️ Heart Forming
 
-A resilient supply-chain project developed for **HACKFEST'26**, focused on building a practical product around supply-chain resilience.
+A creative animation project combining a **mathematical heart shape, line-by-line animation, gradients, Python Turtle, and an HTML Canvas web version**.
 
-**Focus:** `Supply Chain` · `Resilience` · `Product Development`
+**Stack:** `Python` · `JavaScript` · `HTML Canvas`
 
-<a href="https://github.com/saatwiksharma07/SupplySphere">View repository →</a>
+<a href="https://github.com/saatwiksharma07/HEART-FORMING">View repository →</a>
 
 </td>
 </tr>
 </table>
 
-### Other work
+### 📚 Public Learning Repositories
 
-- ☕ **[Java](https://github.com/saatwiksharma07/java)** — Java practice, DSA and programming fundamentals.
-- 🎨 **[HTML & CSS](https://github.com/saatwiksharma07/HTML-AND-CSS)** — frontend layouts and UI experiments.
-- ❤️ **[HEART-FORMING](https://github.com/saatwiksharma07/HEART-FORMING)** — creative frontend experiment.
+- ☕ **[Java](https://github.com/saatwiksharma07/java)** — programming fundamentals, arrays, matrices, strings, patterns, statistics-style problems, and DSA practice.
+- 🎨 **[HTML & CSS](https://github.com/saatwiksharma07/HTML-AND-CSS)** — grids, responsive layouts, media queries, animations, hover effects, loading states, and UI exercises.
+
+### 🔒 Private projects currently in development
+
+- **AI Resume Analyzer** — production-oriented AI career product.
+- **LLM-from-Scratch** — hands-on exploration of language-model fundamentals using Python.
+- **DreamFrame** — cinematic AI image-generation product experience.
 
 ---
 
@@ -110,7 +112,7 @@ A resilient supply-chain project developed for **HACKFEST'26**, focused on build
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,git,github,vscode,supabase" alt="Java, Python, JavaScript, HTML, CSS, React, Node.js, Git, GitHub, VS Code, Supabase" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nextjs,nodejs,git,github,vscode,supabase" alt="Java, Python, JavaScript, TypeScript, HTML, CSS, React, Next.js, Node.js, Git, GitHub, VS Code, Supabase" />
 
 <br/><br/>
 
@@ -118,18 +120,17 @@ A resilient supply-chain project developed for **HACKFEST'26**, focused on build
 <img src="https://img.shields.io/badge/LLMs-164e63?style=for-the-badge" alt="LLMs" />
 <img src="https://img.shields.io/badge/Full--Stack-334155?style=for-the-badge" alt="Full Stack" />
 <img src="https://img.shields.io/badge/DSA-475569?style=for-the-badge" alt="DSA" />
+<img src="https://img.shields.io/badge/UI%20Engineering-475569?style=for-the-badge" alt="UI Engineering" />
 
 </div>
 
-### Currently learning
+### Currently learning / exploring
 
-`LLM architectures` · `AI product engineering` · `React` · `Node.js` · `Python ML` · `DSA` · `Backend development`
-
-> **My stack philosophy:** don't just learn how to use a tool — understand why it works, what trade-offs it has, and where it belongs in a real system.
+`LLM architectures` · `AI product engineering` · `Next.js` · `React` · `TypeScript` · `Node.js` · `Python ML` · `DSA` · `Backend development`
 
 ---
 
-## 🧪 My AI Learning Path
+## 🧪 My Learning Path
 
 ```text
 Programming Fundamentals
@@ -147,7 +148,21 @@ ML + LLM Fundamentals
 Production AI Products
 ```
 
-My goal is to move from **using AI APIs → understanding AI systems → building AI systems and products**.
+I'm working toward the point where I can go from **using tools → understanding systems → designing systems → shipping products**.
+
+---
+
+## 🧩 What My Repositories Reflect
+
+**Foundations** → Java, HTML/CSS and JavaScript practice
+
+**Frontend engineering** → responsive layouts, animations, interactive UI and product-style pages
+
+**Full-stack thinking** → job-portal architecture and application flows
+
+**AI engineering** → resume analysis, ATS workflows, LLM experimentation and AI product concepts
+
+**Product design** → building interfaces that feel like products rather than isolated demos
 
 ---
 
@@ -159,7 +174,7 @@ Hands-on learning through Google Skills badges, labs, assessments and technology
 
 ### 📚 Current areas
 
-`Artificial Intelligence` · `Machine Learning` · `LLMs` · `Java & DSA` · `Full-Stack Development` · `Software Engineering`
+`Artificial Intelligence` · `Machine Learning` · `LLMs` · `Java & DSA` · `Full-Stack Development` · `Software Engineering` · `UI Engineering`
 
 > **Certificates show what I studied. Projects show what I can build.**
 
@@ -184,15 +199,15 @@ Hands-on learning through Google Skills badges, labs, assessments and technology
 
 ### **AI Engineer → Full-Stack AI Product Builder**
 
-I'm interested in building products where **AI is part of the core experience**, backed by solid software engineering.
+I'm building toward software where **AI, engineering, and product design work together**.
 
-Long term, I'm working toward:
+Long term, I want to:
 
-- Building and understanding **LLMs and ML systems**
-- Creating **AI-powered SaaS products**
-- Strengthening **software engineering and system design**
-- Turning ideas into **real, usable products**
-- Continuously improving through **projects, experimentation and problem solving**
+- Build and understand **LLMs and ML systems**
+- Create **AI-powered SaaS products**
+- Strengthen **software engineering and system design**
+- Build polished, interactive **web experiences**
+- Turn ideas into **real, usable products**
 
 ---
 
@@ -200,7 +215,7 @@ Long term, I'm working toward:
 
 <div align="center">
 
-Interested in **AI, LLMs, software engineering, full-stack development, or ambitious product building**?
+Interested in **AI, LLMs, software engineering, full-stack development, UI engineering, or ambitious product building**?
 
 <br/><br/>
 
