@@ -4,15 +4,15 @@
 
 # Saatwik Sharma
 
-### AI/ML Developer · Full-Stack Builder · CSE Student
+### AI/ML • Full-Stack Development • Software Engineering
 
-**Building ideas into useful products.**
+**I build practical products, experiment with AI, and turn ideas into working software.**
 
-AI • Full-Stack • UI/UX • LLMs • Software Engineering
+AI Engineering • Full-Stack • LLMs • UI/UX • Java • Python • JavaScript
 
 <a href="https://github.com/saatwiksharma07"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/saatwik-sharma-3039723a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/saatwiksharma07?tab=repositories"><img src="https://img.shields.io/badge/Projects-0f766e?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/saatwiksharma07?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0f766e?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -20,74 +20,132 @@ AI • Full-Stack • UI/UX • LLMs • Software Engineering
 
 <div align="center">
 
-## ⚡ What I Build
+## ⚡ What I Do
 
-AI Products · Full-Stack Apps · Modern UIs · LLM Experiments
+**Build • Learn • Experiment • Ship**
 
-<br>
+I’m a CSE student focused on becoming a strong software engineer with a practical AI/ML foundation.  
+My projects combine **AI, full-stack development, modern interfaces, and problem solving**.
 
 </div>
 
-<table align="center" width="900">
+---
+
+## 🚀 Featured Projects
+
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 GO RESUME
-**AI Resume Analyzer**
+### 🎵 SAAVI
+**AI-ready Music Experience**
 
-Resume parsing · ATS analysis · Job matching
+A modern music platform concept focused on personalized discovery, playlists, local music, artist libraries, collaborative playlists, and a premium interactive UI.
+
+**Focus:** Product Engineering · UI/UX · Music Systems
+
+<code>JavaScript</code> <code>React</code> <code>Vite</code>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Resume Analyzer
+**AI-powered career assistant**
+
+Analyzes resumes, extracts structured information, evaluates ATS readiness, and helps users improve their career profile.
+
+**Focus:** AI Products · Resume Intelligence · SaaS
 
 <code>JavaScript</code> <code>PDF.js</code> <code>Supabase</code> <code>Vercel</code>
 
 </td>
-<td width="50%" valign="top">
-
-### 🎞️ DREAMFRAME
-**AI Image Experience**
-
-Cinematic visuals · Scroll interactions · Product UI
-
-<code>Next.js</code> <code>React</code> <code>TypeScript</code>
-
-</td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 💼 CAREERCONNECT
-**Job Portal**
+### 🧠 LLM-from-Scratch
+**Learning how language models work**
 
-Jobs · Companies · Profiles · Applications
+A hands-on exploration of the foundations behind LLMs, from Python and data processing to neural-network and transformer concepts.
 
-<code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+**Focus:** AI/ML · Deep Learning · LLM Engineering
+
+<code>Python</code> <code>PyTorch</code>
 
 </td>
 <td width="50%" valign="top">
 
-### ❤️ HEART FORMING
-**Creative Animation**
+### 🎞️ DreamFrame
+**Creative web experience**
 
-Mathematical art · Canvas · Python Turtle
+A cinematic interactive web project exploring visual storytelling, animation, and modern product interfaces.
 
-<code>Python</code> <code>JavaScript</code> <code>Canvas</code>
+**Focus:** Frontend · Interaction Design · Creative Development
+
+<code>JavaScript</code> <code>React</code> <code>TypeScript</code>
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
 <div align="center">
 
----
-
 ## 🧰 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nextjs,nodejs,git,github,vscode,supabase" alt="Tech stack" />
+### Languages
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css" alt="Languages" />
+
+### Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,git,github,vscode" alt="Development tools" />
+
+### AI / Data
+<img src="https://skillicons.dev/icons?i=pytorch" alt="AI tools" />
 
 <br><br>
 
-AI Engineering · LLMs · Full-Stack · DSA
+**Also working with:** PDF.js • Pandas • SQL • Supabase • Vercel
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🧠 Building a stronger foundation in **AI/ML and LLM engineering**
+- 💻 Improving **Java, DSA, Python, JavaScript and full-stack development**
+- 🚀 Turning projects into **real, usable products**
+- 🎨 Designing cleaner and more interactive **UI/UX**
+- 🧩 Learning how to build systems that are not just demos, but maintainable software
+
+---
+
+## 📌 What I'm Building Toward
+
+### **AI Engineer × Full-Stack Product Builder**
+
+I want to work at the intersection of:
+
+**Artificial Intelligence + Software Engineering + Product Design**
+
+The goal is simple:
+
+> **Learn deeply. Build consistently. Ship useful things.**
+
+---
+
+<div align="center">
+
+## 📊 GitHub Activity
+
+<img src="./assets/github-stats.svg?v=20261006" height="170" alt="GitHub statistics" />
+<img src="./assets/top-languages.svg?v=20261006" height="170" alt="Top languages" />
+
+<br><br>
+
+**AI × Engineering × Design**
 
 </div>
 
@@ -95,21 +153,10 @@ AI Engineering · LLMs · Full-Stack · DSA
 
 <div align="center">
 
-## 🔭 Building Now
+### Thanks for visiting 👋
 
-🤖 **AI Resume Analyzer** · 🧠 **LLM-from-Scratch** · 🎞️ **DreamFrame**
+If you find something interesting here, feel free to explore the repositories.
 
-### 🎯 AI Engineer → Full-Stack AI Product Builder
-
-*Learn. Build. Ship. Improve.*
-
-<br>
-
-<img src="./assets/github-stats.svg?v=20260922" height="170" alt="GitHub statistics" />
-<img src="./assets/top-languages.svg?v=20260922" height="170" alt="Top languages" />
-
-<br>
-
-**AI × Engineering × Design**
+**Keep building. 🚀**
 
 </div>
